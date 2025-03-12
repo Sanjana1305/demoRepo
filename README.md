@@ -1,4 +1,4 @@
 # demoRepo
 
 
-only for demo that how to use github anf git commands
+only for demo that how to use github and git commands
